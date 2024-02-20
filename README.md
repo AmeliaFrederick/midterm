@@ -14,16 +14,16 @@ HTML portion of assignment
     Within the <body> markup the content provided to you in content.txt using semantic html. Follow the recommendations below to ensure you are including all expected html elements. 
     Header - Use the image tag to display the logo.
     Main - Nest an article element and markup all content within the content.txt file that is included between the two -------- dividers. HTML tags to include are:
-        h1
-        h2
-        p
-        img
-        figure
-        figcaption
-        q
-        ul
-        a 
-        div
+        <!-- h1 -->
+        <!-- h2 -->
+        <!-- p -->
+        <!-- img -->
+        <!-- figure -->
+        <!-- figcaption -->
+        <!-- q -->
+        <!-- ul -->
+        <!-- a  -->
+        <!-- div -->
         Note: See comments in the content.txt for more details. They are included with *** before and after comment.
     Footer - Use an appropriate html tag for copyright details within the footer element.
     Use the HTML Validator tool to validate the html.
@@ -47,7 +47,7 @@ Use the following as guidance when updating your css:
         Align all content nested within to center using text align property
     Select the appropriate tag for image
         Set the width to be 100%
-        Target the logo in the header using an ID
+    Target the logo in the header using an ID
         Set the width to 100px
         Add 8px of padding to the top
     Select the main element
