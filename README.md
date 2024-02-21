@@ -41,26 +41,26 @@ Use the following as guidance when updating your css:
         Set the text color to #1a1a1a
         Set line height to 1.5
         Set margin to 0
-    Select header and footer
+    <!-- Select header and footer
         Change background color to #000
         Set the text color to #fff
-        Align all content nested within to center using text align property
-    Select the appropriate tag for image
-        Set the width to be 100%
-    Target the logo in the header using an ID
+        Align all content nested within to center using text align property -->
+    <!-- Select the appropriate tag for image
+        Set the width to be 100% -->
+    <!-- Target the logo in the header using an ID
         Set the width to 100px
-        Add 8px of padding to the top
-    Select the main element
-        Give some space around the content with padding all around with 20px
-    Select h1
+        Add 8px of padding to the top -->
+    <!-- Select the main element
+        Give some space around the content with padding all around with 20px -->
+    <!-- Select h1
         Change font size to 2rem
         Set line height to 1.3
-        Adjust margin on the top and bottom to 1rem
-    Target the article category 'News' using a class
+        Adjust margin on the top and bottom to 1rem -->
+    <!-- Target the article category 'News' using a class
         Change display property to inline-block
         Change text to be displayed as uppercase
         Set font size to be .85rem
-        Add border bottom with values 2px solid #ff3530
+        Add border bottom with values 2px solid #ff3530 -->
     Select figcaption, article category, sub-title, author, date and h2
         Change font family to Open Sans
     Select author and date
