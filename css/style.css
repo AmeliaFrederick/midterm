@@ -1,5 +1,7 @@
 body {
-   
+    font-family: "Vesper Libre", serif;
+    font-weight: 400;
+    font-style: normal;
     color: #1a1a1a;
     line-height: 1.5;
     margin: 0;
@@ -11,11 +13,11 @@ header, footer {
     text-align: center;
 }
 
-#Nominees {
+#nomineesimg {
     width: 100%;
 }
 
-#Logo {
+#logo {
     width: 100px;
     padding-top: 8px;
 }
@@ -31,16 +33,55 @@ h1 {
     margin-bottom: 1rem;
 }
 
-.News {
+#news {
     display: inline-block;
     text-transform: uppercase;
     font-size: .85rem;
     border-bottom: 2px solid #ff3530;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:"wdth";
+}
+
+figcaption, article, #AuthorDate, #subtitle, h2 {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:"wdth";
 }
 
 #AuthorDate {
     margin-bottom: 0%;
-    color: red;
     font-size: .85rem;
 }
 
+figure {
+    margin-top: 1.25em;
+    margin-bottom: 1.25em;
+    margin-left: 0;
+}
+
+#caption {
+    font-size: .75rem;
+    text-align: center;
+    color: #757575;
+    font-style: italic;
+}
+
+#nominees {
+    list-style: none;
+    padding-left: 0;
+}
+
+a {
+    color: #1a1a1a;
+    text-decoration: underline;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #ff3530
+}
